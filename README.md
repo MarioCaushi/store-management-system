@@ -34,14 +34,14 @@ Both Cashiers and Managers can view,edit, add and remove products from the inven
 Managers and Cashiers can view a daily,weekly,monthly and yearly report of items sold and the profit made from those. 
 
 * #### Loyalty Program Page - Manager Only
-Managers have access to the loytlty program of the system. They can set certains conditions that determine the amount of discount customers have depending opn thr amount of items and loyalty points they have bought and earned.
+Managers have access to the loyalty program of the system. They can set certain conditions that determine the amount of discount customers have depending on the amount of items and loyalty points they have bought and earned.
 
 * #### Point of Sale Page - Cashier Only
 POS is a Cashier reserved function. After selecting a customer from management cashiers can add them to POS. There cashiers can view inventory and select items and the amount desired to sell to each customer's items bought list. After the cashier is done selecting, then when proceeding to selling it displays a message of the price with or without discount depending on the customer.
 
 * #### Database 
 This program is not built using any type of database software.
-In this system binary files are used to load,store and arrange the data, so it must be relatively slower than a DBMS but it is efficient.
+In this system binary files are used to load,store and arrange the data, so it is relatively slower than a DBMS but it is efficient.
 As a future improvement maybe database support can be added. 
 
 ## Requirements
