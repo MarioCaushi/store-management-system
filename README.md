@@ -14,7 +14,7 @@ There are multiple notifications throught the program with every action so the u
 
 * #### Login Page
 When you first run the program it opens up to a Login Page that welcomes the user to the system and requests for username and password of the user.
-If the user enters a correct username and password the program then checks to recognize if the credentials entered as those of a Manager or a Cashier.
+If the user enters a correct username and password the program then checks to recognize if the credentials entered are those of a Manager or a Cashier.
 
 * #### Register Page
 This program does not have a default admin implemented in the code so in order to access the system the user is required to register as a cashier or a manager and fill out the given fields.
